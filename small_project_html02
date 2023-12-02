@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Entire Project </title>
+    <link rel="shortcut icon" href="kathir.jpg" type="image/jpg">
+
+
+    <!-- <style>
+        body{
+            background-color: black;
+            color: white;
+        }
+    </style>
+n
+    <script>
+        alert("hlo welcome to my webpage")
+    </script> -->
+
+</head>
+
+<body>
+    <table border="1" width="80%">
+        <tr>
+            <th colspan="2">
+                <h1> Welcome to My Entire Html Project</h1>
+            </th>
+        </tr>
+
+        <tr>
+            <td width="20%">
+                <ul>
+                    <li>
+                        <a href="https://google.com" target="_blank">this link go to google website
+                        </a>
+                    </li>
+                    <br>
+                    <li>
+                        <a href="secondindex.html">click here to go second page </a>
+                        <br><br>
+                    </li>
+                    <li><a href="Craeting a first project .html">My First Project </a>
+                        <br><br>
+                    </li>
+                    <li><a href="myproject.html">My Second Project </a>
+                        <br><br>
+                    </li>
+                    <li><a href="projectno2.html">My Small Project </a>
+                        <br><br>
+                    </li>
+                    <li><a href="index2.html">My tutorial</a></li>
+
+                </ul>
+            </td>
+            <th>
+                <h1> Kathiravan Web_Developer </h1>
+                <img src="kathir.jpg" width="600" height="600" alt="fuck u ">
+            </th>
+        </tr>
+        <tr>
+            <th colspan="2">
+                &copy; Footer in there 2040
+            </th>
+        </tr>
+    </table>
+</body>
+
+</html>
